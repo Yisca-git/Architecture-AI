@@ -1,0 +1,139 @@
+D:\webAPI\WebApiShop\Services\bin\Debug\net9.0\Services.deps.json
+D:\webAPI\WebApiShop\Services\bin\Debug\net9.0\Services.dll
+D:\webAPI\WebApiShop\Services\bin\Debug\net9.0\Services.pdb
+D:\webAPI\WebApiShop\Services\bin\Debug\net9.0\Entities.dll
+D:\webAPI\WebApiShop\Services\bin\Debug\net9.0\Repositories.dll
+D:\webAPI\WebApiShop\Services\bin\Debug\net9.0\Repositories.pdb
+D:\webAPI\WebApiShop\Services\bin\Debug\net9.0\Entities.pdb
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\Services.dll
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\refint\Services.dll
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\Services.pdb
+D:\webAPI\WebApiShop\Services\obj\Debug\net9.0\ref\Services.dll
+D:\webAPI\WebApiShop\Services\bin\Debug\net9.0\DTOs.dll
+D:\webAPI\WebApiShop\Services\bin\Debug\net9.0\DTOs.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\bin\Debug\net9.0\Services.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\bin\Debug\net9.0\DTOs.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\bin\Debug\net9.0\Entities.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\bin\Debug\net9.0\DTOs.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\bin\Debug\net9.0\Entities.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\Services.sourcelink.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\Services.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Services\obj\Debug\net9.0\ref\Services.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\bin\Debug\net9.0\Services.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\bin\Debug\net9.0\DTOs.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\bin\Debug\net9.0\Entities.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\bin\Debug\net9.0\Entities.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\bin\Debug\net9.0\DTOs.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\Services.sourcelink.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\Services.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Services\obj\Debug\net9.0\ref\Services.dll
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\Services.sourcelink.json
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\Services.dll
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\user1\Desktop\API\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\user1\Desktop\API\Services\bin\Debug\net9.0\Services.dll
+C:\Users\user1\Desktop\API\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\user1\Desktop\API\Services\bin\Debug\net9.0\DTOs.dll
+C:\Users\user1\Desktop\API\Services\bin\Debug\net9.0\Entities.dll
+C:\Users\user1\Desktop\API\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\user1\Desktop\API\Services\bin\Debug\net9.0\Entities.pdb
+C:\Users\user1\Desktop\API\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\user1\Desktop\API\Services\bin\Debug\net9.0\DTOs.pdb
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\user1\Desktop\API\Services\obj\Debug\net9.0\ref\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\bin\Debug\net9.0\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\bin\Debug\net9.0\DTOs.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\bin\Debug\net9.0\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\bin\Debug\net9.0\Entities.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\bin\Debug\net9.0\DTOs.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\obj\Debug\net9.0\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Services\obj\Debug\net9.0\ref\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\bin\Debug\net9.0\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\bin\Debug\net9.0\DTOs.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\bin\Debug\net9.0\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\bin\Debug\net9.0\Entities.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\bin\Debug\net9.0\DTOs.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\Services.sourcelink.json
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Services\obj\Debug\net9.0\ref\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\bin\Debug\net9.0\Services.deps.json
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\bin\Debug\net9.0\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\bin\Debug\net9.0\Services.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\bin\Debug\net9.0\DTOs.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\bin\Debug\net9.0\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\bin\Debug\net9.0\Repositories.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\bin\Debug\net9.0\Entities.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\bin\Debug\net9.0\Repositories.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\bin\Debug\net9.0\DTOs.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\Services.sourcelink.json
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\refint\Services.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\Services.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Services\obj\Debug\net9.0\ref\Services.dll

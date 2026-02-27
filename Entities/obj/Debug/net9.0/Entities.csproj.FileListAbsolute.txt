@@ -1,0 +1,111 @@
+D:\webAPI\WebApiShop\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\webAPI\WebApiShop\Entities\bin\Debug\net9.0\Entities.dll
+D:\webAPI\WebApiShop\Entities\bin\Debug\net9.0\Entities.pdb
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\Entities.dll
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\Entities.pdb
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\ref\Entities.dll
+D:\webAPI\WebApiShop\Entities\bin\Debug\net9.0\DTOs.dll
+D:\webAPI\WebApiShop\Entities\bin\Debug\net9.0\DTOs.pdb
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+D:\webAPI\WebApiShop\Entities\obj\Debug\net9.0\Entities.csproj.Up2Date
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\bin\Debug\net9.0\Entities.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\bin\Debug\net9.0\Entities.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\bin\Debug\net9.0\DTOs.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\bin\Debug\net9.0\DTOs.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\Entities.csproj.Up2Date
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\Entities.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\Entities.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\bin\Debug\net9.0\Entities.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\bin\Debug\net9.0\Entities.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\bin\Debug\net9.0\DTOs.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\bin\Debug\net9.0\DTOs.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\Entities.csproj.Up2Date
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\Entities.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\Entities.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\Event_dress_rental\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\Users\user1\Desktop\API\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\Users\user1\Desktop\API\Entities\bin\Debug\net9.0\Entities.dll
+C:\Users\user1\Desktop\API\Entities\bin\Debug\net9.0\Entities.pdb
+C:\Users\user1\Desktop\API\Entities\bin\Debug\net9.0\DTOs.dll
+C:\Users\user1\Desktop\API\Entities\bin\Debug\net9.0\DTOs.pdb
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\Entities.csproj.Up2Date
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\Entities.dll
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\Entities.pdb
+C:\Users\user1\Desktop\API\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\bin\Debug\net9.0\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\bin\Debug\net9.0\Entities.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\bin\Debug\net9.0\DTOs.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\bin\Debug\net9.0\DTOs.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\Entities.csproj.Up2Date
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\Entities.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\webApiProject\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\bin\Debug\net9.0\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\bin\Debug\net9.0\Entities.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\bin\Debug\net9.0\DTOs.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\bin\Debug\net9.0\DTOs.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\Entities.csproj.Up2Date
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\Entities.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\Entities\obj\Debug\net9.0\ref\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\bin\Debug\net9.0\Entities.deps.json
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\bin\Debug\net9.0\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\bin\Debug\net9.0\Entities.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\bin\Debug\net9.0\DTOs.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\bin\Debug\net9.0\DTOs.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\Entities.csproj.Up2Date
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\refint\Entities.dll
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\Entities.pdb
+C:\Users\Owner\Documents\לימודים\שנה ב\ארכיטקטורה וכלי AI\Project\Entities\obj\Debug\net9.0\ref\Entities.dll

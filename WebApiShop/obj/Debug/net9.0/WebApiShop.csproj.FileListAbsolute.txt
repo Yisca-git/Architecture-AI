@@ -1,0 +1,222 @@
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\appsettings.Development.json
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\appsettings.json
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\WebApiShop.staticwebassets.runtime.json
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\WebApiShop.staticwebassets.endpoints.json
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\WebApiShop.exe
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\WebApiShop.deps.json
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\WebApiShop.runtimeconfig.json
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\WebApiShop.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\WebApiShop.pdb
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Azure.Core.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Azure.Identity.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.ClientModel.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.Memory.Data.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.Text.Json.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\zxcvbn-core.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Entities.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Repositories.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Services.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Services.pdb
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Entities.pdb
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Repositories.pdb
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.csproj.AssemblyReference.cache
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.AssemblyInfoInputs.cache
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.AssemblyInfo.cs
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.csproj.CoreCompileInputs.cache
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.MvcApplicationPartsAssemblyInfo.cache
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.sourcelink.json
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\scopedcss\bundle\WebApiShop.styles.css
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\staticwebassets.build.json
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\staticwebassets.development.json
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.csproj.Up2Date
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.dll
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\refint\WebApiShop.dll
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.pdb
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.genruntimeconfig.cache
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\ref\WebApiShop.dll
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\compressed\dsl5nreg3f-o5qwdmn5g8.gz
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\compressed\u9gna8e2di-oo8dt0wgve.gz
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\WebApiShop.MvcApplicationPartsAssemblyInfo.cs
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\AutoMapper.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\DTOs.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\DTOs.pdb
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\compressed\1aa4p0wbdf-p52pxjjiem.gz
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\nlog.config
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\MailKit.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\MimeKit.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\NLog.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\NLog.Extensions.Logging.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\NLog.MailKit.dll
+D:\webAPI\WebApiShop\WebApiShop\bin\Debug\net9.0\NLog.Web.AspNetCore.dll
+D:\webAPI\WebApiShop\WebApiShop\obj\Debug\net9.0\compressed\co1eup8ul9-qyr8ov8u95.gz
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\appsettings.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\WebApiShop.staticwebassets.runtime.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\WebApiShop.staticwebassets.endpoints.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\WebApiShop.exe
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\nlog.config
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\WebApiShop.deps.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\WebApiShop.runtimeconfig.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\WebApiShop.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\WebApiShop.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\MailKit.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\MimeKit.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\NLog.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\NLog.Extensions.Logging.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\NLog.MailKit.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\NLog.Web.AspNetCore.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\zxcvbn-core.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\DTOs.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Entities.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Repositories.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Services.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Services.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\DTOs.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Entities.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\bin\Debug\net9.0\Repositories.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.AssemblyInfo.cs
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.sourcelink.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\scopedcss\bundle\WebApiShop.styles.css
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\compressed\dsl5nreg3f-o5qwdmn5g8.gz
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\compressed\u9gna8e2di-oo8dt0wgve.gz
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\compressed\1aa4p0wbdf-p52pxjjiem.gz
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\compressed\co1eup8ul9-qyr8ov8u95.gz
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.csproj.Up2Date
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\refint\WebApiShop.dll
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.pdb
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\WebApiShop.genruntimeconfig.cache
+C:\Users\user1\Desktop\ריקי\שנה ב'\PROJECT\git_webApi\WebApiShop\obj\Debug\net9.0\ref\WebApiShop.dll
