@@ -43,7 +43,9 @@ builder.Services.AddSingleton<IConnectionMultiplexer>(sp =>
 });
 builder.Services.AddSingleton<ICacheService, RedisCacheService>();
 
-builder.Services.AddDbContext<EventDressRentalContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Home")));
+builder.Services.AddDbContext<EventDressRentalContext>(options => 
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Home"))
+           .ConfigureWarnings(warnings => warnings.Ignore(Microsoft.EntityFrameworkCore.Diagnostics.RelationalEventId.MultipleCollectionIncludeWarning)));
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 

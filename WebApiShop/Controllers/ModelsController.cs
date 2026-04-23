@@ -24,7 +24,7 @@ namespace EventDressRental.Controllers
         // GET: api/<ModelsController>
         [HttpGet]
         public async Task<ActionResult<IEnumerable<FinalModels>>> Get(string? description, int? minPrice, int? maxPrice,
-                    [FromQuery] int[] categoriesId, string[] color, int position = 1, int skip = 8)
+                    [FromQuery] int[] categoriesId, [FromQuery] string[] color, int position = 1, int skip = 8)
         {
             if (!_modelService.ValidateQueryParameters(position, skip, minPrice, maxPrice))
                 return BadRequest("is not valid parameters");

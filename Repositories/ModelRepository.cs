@@ -34,8 +34,8 @@ namespace Repositories
             &&(description == null ? (true) : (product.Name.Contains(description)))
             && ((minPrice == null) ? (true) : (product.BasePrice >= minPrice))
             && ((maxPrice == null) ? (true) : (product.BasePrice <= maxPrice))
-            && (colors.Count() == 0) ? (true) : (colors.Contains(product.Color))
-            && ((categoriesId.Count() == 0) ? (true) : product.Categories.Any(c => categoriesId.Contains(c.Id))))
+            && ((colors == null || colors.Length == 0) ? (true) : (colors.Contains(product.Color)))
+            && ((categoriesId == null || categoriesId.Length == 0) ? (true) : product.Categories.Any(c => categoriesId.Contains(c.Id))))
             .OrderBy(product => product.BasePrice);
             Console.WriteLine(query.ToQueryString());
             List<Model> products = await query.Skip((position - 1) * skip)

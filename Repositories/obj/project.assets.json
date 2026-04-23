@@ -4751,11 +4751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Repositories\\Repositories.csproj",
+      "projectPath": "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Repositories\\obj\\",
+      "outputPath": "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4776,8 +4776,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Entities\\Entities.csproj"
+            "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Entities\\Entities.csproj": {
+              "projectPath": "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Entities\\Entities.csproj"
             }
           }
         }
