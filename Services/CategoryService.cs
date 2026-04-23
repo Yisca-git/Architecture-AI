@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+using AutoMapper;
 using Entities;
 using DTOs;
 using Repositories;
@@ -48,18 +48,18 @@ namespace Services
             var cachedCategories = await _cacheService.GetAsync<List<CategoryDTO>>(cacheKey);
             if (cachedCategories != null)
             {
-                _logger.LogInformation("Returning {Count} categories from cache", cachedCategories.Count);
+                _logger.LogInformation("Cache HIT - Returning {Count} categories from cache", cachedCategories.Count);
                 return cachedCategories;
             }
 
             // Cache miss - fetch from database
-            _logger.LogInformation("Cache miss - fetching categories from database");
+            _logger.LogInformation("Cache MISS - Fetching categories from database");
             List<Category> categories = await _categoryRepository.GetCategories();
             List<CategoryDTO> categoriesDTO = _mapper.Map<List<Category>, List<CategoryDTO>>(categories);
 
             // Store in cache
             await _cacheService.SetAsync(cacheKey, categoriesDTO, _categoryTTL);
-            _logger.LogInformation("Cached {Count} categories with TTL of {TTL} seconds", categoriesDTO.Count, _categoryTTL.TotalSeconds);
+            _logger.LogInformation("Cache STORED - Cached {Count} categories with TTL of {TTL} seconds", categoriesDTO.Count, _categoryTTL.TotalSeconds);
 
             return categoriesDTO;
         }
