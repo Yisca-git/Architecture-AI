@@ -7,6 +7,7 @@ using NLog.Web;
 using Repositories;
 using Services;
 using EventDressRental.Middleware;
+using StackExchange.Redis;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -33,6 +34,14 @@ builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddScoped<IRatingRepository, RatingRepository>();
 builder.Services.AddScoped<IRatingService, RatingService>();
 
+// Redis Configuration
+builder.Services.AddSingleton<IConnectionMultiplexer>(sp =>
+{
+    var configuration = sp.GetRequiredService<IConfiguration>();
+    var connectionString = configuration.GetValue<string>("Redis:ConnectionString");
+    return ConnectionMultiplexer.Connect(connectionString!);
+});
+builder.Services.AddSingleton<ICacheService, RedisCacheService>();
 
 builder.Services.AddDbContext<EventDressRentalContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Home")));
 

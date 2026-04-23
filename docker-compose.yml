@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  redis:
+    image: redis:7.4-alpine
+    container_name: eventdress-redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    command: redis-server --requirepass MySecureRedisPassword2026!
+    environment:
+      - REDIS_PASSWORD=MySecureRedisPassword2026!
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "--raw", "incr", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+    networks:
+      - eventdress-network
+
+  api:
+    build:
+      context: .
+      dockerfile: WebApiShop/Dockerfile
+    container_name: eventdress-api
+    restart: unless-stopped
+    ports:
+      - "5216:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ASPNETCORE_URLS=http://+:8080
+      - Redis__ConnectionString=redis:6379,password=MySecureRedisPassword2026!,abortConnect=false
+      - ConnectionStrings__Home=${SQL_CONNECTION_STRING}
+    depends_on:
+      redis:
+        condition: service_healthy
+    networks:
+      - eventdress-network
+    # Uncomment if you want to use appsettings override file
+    # volumes:
+    #   - ./WebApiShop/appsettings.Docker.json:/app/appsettings.Production.json:ro
+
+volumes:
+  redis-data:
+    driver: local
+
+networks:
+  eventdress-network:
+    driver: bridge

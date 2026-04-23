@@ -52,10 +52,9 @@
               "RelativeDocumentMoniker": "Tests\\TestService\\OrderServiceUnitTests.cs",
               "ToolTip": "C:\\Users\\Owner\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05D0\u05E8\u05DB\u05D9\u05D8\u05E7\u05D8\u05D5\u05E8\u05D4 \u05D5\u05DB\u05DC\u05D9 AI\\Project\\Tests\\TestService\\OrderServiceUnitTests.cs",
               "RelativeToolTip": "Tests\\TestService\\OrderServiceUnitTests.cs",
-              "ViewState": "AgIAAAABAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAP8AAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T22:55:32.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T22:55:32.473Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": ".github\\copilot-instructions.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-02-26T22:53:25.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-26T22:53:25.385Z"
             },
             {
               "$type": "Document",
@@ -78,7 +76,7 @@
               "RelativeDocumentMoniker": "Services\\IOrderService.cs",
               "ToolTip": "C:\\Users\\Owner\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\\u05D0\u05E8\u05DB\u05D9\u05D8\u05E7\u05D8\u05D5\u05E8\u05D4 \u05D5\u05DB\u05DC\u05D9 AI\\Project\\Services\\IOrderService.cs",
               "RelativeToolTip": "Services\\IOrderService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T18:02:23.341Z",
               "EditorCaption": ""

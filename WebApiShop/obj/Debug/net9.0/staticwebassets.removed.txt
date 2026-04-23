@@ -1,4 +1,0 @@
-C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\WebApiShop\wwwroot\home.html
-C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\WebApiShop\wwwroot\page2.js
-C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\WebApiShop\wwwroot\script.js
-C:\Users\Owner\Documents\לימודים\שנה ב\API\‏‏תיקיה חדשה\WebApi_Project\WebApiShop\wwwroot\page2.html
