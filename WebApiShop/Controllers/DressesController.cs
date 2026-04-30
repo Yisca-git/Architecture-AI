@@ -6,7 +6,7 @@ using Repositories;
 using Services;
 using System.Collections.Generic;
 using static System.Runtime.InteropServices.JavaScript.JSType;
-using Microsoft.AspNetCore.Authorization; 
+using EventDressRental.Attributes; 
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -28,6 +28,7 @@ namespace EventDressRental.Controllers
 
         // GET api/<DressesController>/5
         [HttpGet("{id}")]
+        [AllowAnonymous]
         public async Task<ActionResult<DressDTO>> GetDressById(int id)
         {
             DressDTO dress = await _dressService.GetDressById(id);
@@ -35,6 +36,7 @@ namespace EventDressRental.Controllers
         }
         // GET api/<DressesController>/sizes
         [HttpGet("sizes")]
+        [AllowAnonymous]
         public async Task<ActionResult<List<string>>> GetSizesByModelId(int modelId)
         {
             if (await _modelService.GetModelById(modelId) == null)
@@ -46,6 +48,7 @@ namespace EventDressRental.Controllers
 
         // GET api/<DressesController>/count
         [HttpGet("count")]
+        [AllowAnonymous]
         public async Task<ActionResult<int>> GetCountByModelIdAndSizeForDate(int modelId, string size, DateOnly date)
         {
             if (await _modelService.GetModelById(modelId) == null)
@@ -57,6 +60,7 @@ namespace EventDressRental.Controllers
             return Ok(count);
         }
         [HttpGet("id")]
+        [AllowAnonymous]
         public async Task<ActionResult<DressDTO>> GetDressByModelIdAndSize(int modelId, string size)
         {
             if (await _modelService.GetModelById(modelId) == null)
@@ -68,6 +72,7 @@ namespace EventDressRental.Controllers
 
         // POST api/<DressesController>
         [HttpPost]
+        [AuthorizeRoles("Admin")]
         public async Task<ActionResult<DressDTO>> AddDress([FromBody] NewDressDTO newDress)
         {
             if (!_dressService.checkPrice(newDress.Price))
@@ -81,6 +86,7 @@ namespace EventDressRental.Controllers
 
         // PUT api/<DressesController>/5
         [HttpPut("{id}")]
+        [AuthorizeRoles("Admin")]
         public async Task<IActionResult> UpdateDress(int id, [FromBody] NewDressDTO updateDress)
         {
             if (!_dressService.checkPrice(updateDress.Price))
@@ -98,6 +104,7 @@ namespace EventDressRental.Controllers
         }
         // GET api/<DressesController>/model/{modelId}
         [HttpGet("model/{modelId}")]
+        [AllowAnonymous]
         public async Task<ActionResult<List<DressDTO>>> GetDressesByModelId(int modelId)
         {
             if (await _modelService.GetModelById(modelId) == null)
@@ -109,6 +116,7 @@ namespace EventDressRental.Controllers
 
         // DELETE api/<DressesController>/5
         [HttpDelete("{id}")]
+        [AuthorizeRoles("Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             if (!await _dressService.IsExistsDressById(id))

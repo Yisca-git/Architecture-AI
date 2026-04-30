@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Repositories;
 using Services;
 using System.Collections.Generic;
+using EventDressRental.Attributes;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 namespace EventDressRental.Controllers
@@ -21,6 +22,7 @@ namespace EventDressRental.Controllers
         }
         // GET: api/<CategoriesController>
         [HttpGet]
+        [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<CategoryDTO>>> Get()
         {
             List<CategoryDTO> categories= await _categoryService.GetCategories();
@@ -31,6 +33,7 @@ namespace EventDressRental.Controllers
 
         // GET api/<CategoriesController>/5
         [HttpGet("{id}")]
+        [AllowAnonymous]
         public async Task<ActionResult<CategoryDTO>> GetCategoryById(int id)
         {
             CategoryDTO categoryDTO = await _categoryService.GetCategoryId(id);
@@ -39,6 +42,7 @@ namespace EventDressRental.Controllers
 
         // POST api/<CategoriesController>
         [HttpPost]
+        [AuthorizeRoles("Admin")]
         public async Task<ActionResult<CategoryDTO>> AddCategory([FromBody] NewCategoryDTO newCategory)
         {
             CategoryDTO category = await _categoryService.AddCategory(newCategory);

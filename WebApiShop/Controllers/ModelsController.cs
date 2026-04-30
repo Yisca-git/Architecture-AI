@@ -4,7 +4,8 @@ using Repositories;
 using Services;
 using DTOs;
 using System.Collections.Generic;
-using Microsoft.AspNetCore.Authorization; 
+using Microsoft.AspNetCore.Authorization;
+using EventDressRental.Attributes; 
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -23,6 +24,7 @@ namespace EventDressRental.Controllers
         }
         // GET: api/<ModelsController>
         [HttpGet]
+        [AllowAnonymous]
         public async Task<ActionResult<IEnumerable<FinalModels>>> Get(string? description, int? minPrice, int? maxPrice,
                     [FromQuery] int[] categoriesId, [FromQuery] string[] color, int position = 1, int skip = 8)
         {
@@ -37,6 +39,7 @@ namespace EventDressRental.Controllers
 
         // GET api/<ModelsController>/5
         [HttpGet("{id}")]
+        [AllowAnonymous]
         public async Task<ActionResult<ModelDTO>> GetModelById(int id)
         {
             ModelDTO product = await _modelService.GetModelById(id);
@@ -45,6 +48,7 @@ namespace EventDressRental.Controllers
 
         // POST api/<ModelsController>
         [HttpPost]
+        [AuthorizeRoles("Admin")]
         public async Task<ActionResult<ModelDTO>> AddModel([FromBody] NewModelDTO newModel)
         {
             if (!await _modelService.checkCategories(newModel.CategoriesId))
@@ -58,6 +62,7 @@ namespace EventDressRental.Controllers
 
         // PUT api/<ModelsController>/5
         [HttpPut("{id}")]
+        [AuthorizeRoles("Admin")]
         public async Task<IActionResult> UpdateModel(int id, [FromBody] NewModelDTO updateModel)
         {
             if (!await _modelService.checkCategories(updateModel.CategoriesId))
@@ -73,6 +78,7 @@ namespace EventDressRental.Controllers
 
         // DELETE api/<ModelsController>/5
         [HttpDelete("{id}")]
+        [AuthorizeRoles("Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             if (!await _modelService.IsExistsModelById(id))

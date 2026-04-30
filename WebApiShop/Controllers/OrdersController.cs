@@ -5,6 +5,7 @@ using Services;
 using System.Collections.Generic;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 using Microsoft.AspNetCore.Authorization;
+using EventDressRental.Attributes;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -26,6 +27,7 @@ namespace EventDressRental.Controllers
         }
         // GET: api/<OrdersController>
         [HttpGet]
+        [AuthorizeRoles("Admin")]
         public async Task<ActionResult<List<OrderDTO>>> Get()
         {
             List<OrderDTO> list = await _orderService.GetAllOrders();
@@ -36,6 +38,7 @@ namespace EventDressRental.Controllers
 
         // GET api/<OrdersController>/5
         [HttpGet("{id}")]
+        [AuthorizeRoles("Admin", "User")]
         public async Task<ActionResult<OrderDTO>> GetOrderById(int id)
         {
             OrderDTO order = await _orderService.GetOrderById(id);
@@ -44,6 +47,7 @@ namespace EventDressRental.Controllers
 
         // GET api/<OrdersController>/unpacked
         [HttpGet("unpacked")]
+        [AuthorizeRoles("Admin")]
         public async Task<ActionResult<List<OrderDTO>>> GetUnpackedOrdersUntilDate(DateOnly date) 
         {
             if (!_orderService.checkDate(date))
@@ -56,6 +60,7 @@ namespace EventDressRental.Controllers
 
         // GET api/<OrdersController>/user/5
         [HttpGet("user/{userId}")]
+        [AuthorizeRoles("Admin", "User")]
         public async Task<ActionResult<List<OrderDTO>>> GetOrderByUserId(int userId)
         {
             if (await _userService.GetUserById(userId) == null)
@@ -67,6 +72,7 @@ namespace EventDressRental.Controllers
         }
         // POST api/<OrdersController>
         [HttpPost]
+        [AuthorizeRoles("Admin", "User")]
         public async Task<ActionResult<OrderDTO>> AddOrder(NewOrderDTO newOrder)
         {
             bool isValidOrder = await _orderService.checkOrderItems(newOrder);
@@ -84,6 +90,7 @@ namespace EventDressRental.Controllers
 
         // PUT api/<OrdersController>/status/5
         [HttpPut("status/{statusId}")]
+        [AuthorizeRoles("Admin")]
         public async Task<IActionResult> UpdateStatusOrder([FromBody] OrderDTO orderDto, int statusId)
         {
             if (!_orderService.checkStatus(statusId))
