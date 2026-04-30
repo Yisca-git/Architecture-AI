@@ -8,6 +8,8 @@ using Repositories;
 using Services;
 using EventDressRental.Middleware;
 using StackExchange.Redis;
+using Microsoft.AspNetCore.RateLimiting;
+using System.Threading.RateLimiting;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -49,6 +51,20 @@ builder.Services.AddDbContext<EventDressRentalContext>(options =>
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
+// Rate Limiting Configuration
+builder.Services.AddRateLimiter(options =>
+{
+    options.AddFixedWindowLimiter("FixedPolicy", opt =>
+    {
+        opt.PermitLimit = 10;
+        opt.Window = TimeSpan.FromMinutes(1);
+        opt.QueueProcessingOrder = QueueProcessingOrder.OldestFirst;
+        opt.QueueLimit = 0;
+    });
+    
+    options.RejectionStatusCode = 429;
+});
+
 builder.Services.AddControllers();
 
 builder.Services.AddOpenApi();
@@ -83,6 +99,8 @@ app.UseCors("AllowAngularApp");
 
 app.UseHttpsRedirection();
 
+app.UseRateLimiter();
+
 app.UseErrorHandling();
 
 app.UseRating();
@@ -91,7 +109,7 @@ app.UseStaticFiles();
 
 app.UseAuthorization();
 
-app.MapControllers();
+app.MapControllers().RequireRateLimiting("FixedPolicy");
 
 app.Run();
 

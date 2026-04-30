@@ -310,7 +310,7 @@
       {
         "Name": "color",
         "Type": "System.String[]",
-        "IsRequired": true
+        "IsRequired": false
       },
       {
         "Name": "position",

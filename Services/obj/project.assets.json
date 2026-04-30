@@ -3176,11 +3176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Services\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3201,11 +3201,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Entities\\Entities.csproj": {
-              "projectPath": "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Entities\\Entities.csproj"
+            "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Entities\\Entities.csproj"
             },
-            "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Repositories\\Repositories.csproj": {
-              "projectPath": "c:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Repositories\\Repositories.csproj"
+            "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\Owner\\Documents\\לימודים\\שנה ב\\ארכיטקטורה וכלי AI\\Project\\Repositories\\Repositories.csproj"
             }
           }
         }
